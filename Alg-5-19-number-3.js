@@ -16,3 +16,5 @@ function romanize(num) {
 	return roman;
 }
 console.log(romanize(4949));
+
+//***************Alternative************************
